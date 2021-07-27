@@ -82,7 +82,7 @@ const vcard = 'BEGIN:VCARD\n' // Tarjeta de contacto
             + 'END:VCARD'
 /******FIN DE ENTRADA VCARD******/
 
-prefix = '.'
+prefix = '!'
 blocked = []
 
 /******CONFIGURACION DE CARGA******/
@@ -246,21 +246,24 @@ async function starts() {
 			console.log(anu)
 			if (anu.action == 'add') {
 				num = anu.participants[0]
-				teks = `┏━━━━━━━━━━━━━━━━━
-				┃          「 *𝗛𝗢𝗟𝗔* 」
+				teks = `
+				┏━━━━━━━━━━━━━━━━━
+				┃        「 *𝗛𝗢𝗟𝗔* 」
 				┃@${num.split('@')[0]}👋
-				┃BIENVENIDO AL CLAN 
-				┃*${mdata.subject}*
+				┃     BIENVENIDO AL CLAN 
+				┃.    *${mdata.subject}*
 				┗━━━━━━━━━━━━━━━━━
 				┏━━━━━━━━━━━━━━━━━
 				┃   「 *[]~(￣▽￣)~*  」
 				┗━━━━━━━━━━━━━━━━━
 				┏━━━━━━━━━━━━━━━━━
-				┠⊷️ Somos una familia unida y divertída con dinámicas de vez en cuándo 
+				┠⊷️ Somos una familia unida y divertída
+				┠   con dinámicas de vez en cuándo 
 				┠⊷️ *Reglas*:
 				┠⊷️ Respetar a todos los integrantes del clan
-				┠⊷️ Cumplír con tus 70 salas los días miércoles (*mandar tu captura de pantalla*)
-				┠⊷️ Si te anotas en un PVP ó VS porfavor se puntual
+				┠⊷️ Cumplír con tus 70 placas los dias miércoles
+				┠  (*mandar tu captura de pantalla*)
+				┠⊷️ Si te anotas en un PvP se puntual
 				┗━━━━━━━━━━━━━━━━━
 				┏━━━━━━━━━━━━━━━━━
 				┠⊷️「 *Discord del Clan:* 」
@@ -361,7 +364,7 @@ async function starts() {
 			const isOwner = ownerNumber.includes(sender)
                         const isUser = user.includes(sender)
                         const isLevelingOn = isGroup ? _leveling.includes(groupId) : false
-                        const NomerOwner = '593997889284@s.whatsapp.net'
+                        const NomerOwner = '51941625032@s.whatsapp.net'
                         /******Entrada ApiKey******/
                         const BarBarKey = 'Mn2Bf58QHQ8kABoLq80g'
                         /******Fin de la entrada de ApiKey******/
@@ -1025,7 +1028,7 @@ break
 					var nombre = reg.split("|")[0];
                                                 user.push(sender)
 						fs.writeFileSync('./database/json/user.json', JSON.stringify(user))
-						client.sendMessage(from, `\`\`\`REGISTRADO ✅\`\`\`\n\n\`\`\`DNI: Tucsardo 🥸\`\`\`\n\n\`\`\`Hora EC: ${time}\`\`\`\n\n\`\`\`Fecha: ${date}\`\`\`\n\n\`\`\`[Usuario]: ${nombre}\`\`\`\n\`\`\`[Número]: wa.me/${sender.split("@")[0]}\`\`\`\n\`\`\`Para usar el bot\`\`\`\n\`\`\`Por favor\`\`\`\n\`\`\`enviar ${prefix}help\`\`\`\n\`\`\`\nTotal de usuários ${user.length}\`\`\``, text, {quoted: mek})
+						client.sendMessage(from, `\`\`\`REGISTRADO ✅\`\`\`\n\n\`\`\n\n\`\`\`Hora : 🇵🇪${time}\`\`\`\n\n\`\`\`Fecha: ${date}\`\`\`\n\n\`\`\`[Usuario]: ${nombre}\`\`\`\n\`\`\`[Número]: wa.me/${sender.split("@")[0]}\`\`\`\n\`\`\`Para usar el bot\`\`\`\n\`\`\`Por favor\`\`\`\n\`\`\`enviar ${prefix}help\`\`\`\n\`\`\`\nTotal de usuários ${user.length}\`\`\``, text, {quoted: mek})
 					break
                                 case 'welcome':
 					if (!isGroup) return reply(mess.only.group)
@@ -1134,7 +1137,7 @@ break
                                                 if (!isNsfw) return reply('❌ *NSFW Desactivado* ❌')
                                                 if (!isUser) return reply(mess.only.daftarB)
                                                 res = await fetchJson(`https://tobz-api.herokuapp.com/api/nsfwtrap?apikey=APIKEYLU`, {method: 'get'})
-                                                buffer = await getBuffer(res.result)
+                                                 buffer = await getBuffer(res.result)
                                                 client.sendMessage(from, buffer, image, {quoted: mek, caption: 'Estas enfermo flaco NEFASTOOOOO'})
                                         } catch (e) {
                                                 console.log(`*Error* :`, color(e,'red'))
@@ -1290,7 +1293,7 @@ break
                                         const latensi = speed() - timestamp
                                         client.updatePresence(from, Presence.composing) 
 				        uptime = process.uptime()
-                                        client.sendMessage(from, `Velocidad: *${latensi.toFixed(4)} _Second_*\nDevice: *Alcatel Pixi 4*\nRAM: *6Mb*\nData: *10GB*\nJaringan: *2G*\nStatus: *Bateria Baja*`, text, { quoted: mek})
+                                        client.sendMessage(from, `Velocidad: *${latensi.toFixed(4)} _Second_*\nDevice: *Xiaomi Note 9 S*\nRAM: *32GB*\nData: *10TB*\nPeru: *5G*\nStatus: *Bateria Baja*`, text, { quoted: mek})
                                         break
                                 case 'ttp':
 					if (args.length < 1) return reply('Y el texto flaco?')
