@@ -1371,6 +1371,9 @@ break
 									if (budy.includes(`tmr`)) {
 										reply(`Este es un grupo cristiano , no insultos porfavor`)
 										}
+										if (budy.includes(`hdp`)) {
+											reply(`Este es un grupo cristiano , no insultos porfavor`)
+											}
 			/*SPAM */
 							  
 			
@@ -1385,6 +1388,311 @@ break
 						reply(`PvP o miedo 🤖🤖\n >:v`)
 						}	 
 						
+					
+					if (budy.includes(`.colores`)) {
+						reply(`
+					[SedyGames]
+					[FF0000] Rojo
+					[0000FF] Azul
+					[00FFFF] Celeste
+					[FF00FF] Rosado
+					[FF9000] Naranja
+					[6E00FF] Morado
+					[CCFF00] Verde Limón
+					[0F7209] Verde Oscuro
+					[FFD3EF] Rosado claro
+					[FFFFFF] Blanco
+					[000000] Negro
+					[808000] Marrón claro
+					[482B10] Marrón oscuro
+					[SedyBot]
+						`)
+						}	 
+						
+					if (budy.includes(`.signos`)) {
+						reply(`
+					×͜×
+					🅥
+					亗
+					☯︎
+					Ⓥ
+					🅥
+					🅅
+					🆅
+					★
+					彡
+					⁹⁹
+					꧁
+					
+					℠
+					⎳𝓸𝓿𝓮
+					௵
+					ღ
+					இ
+					۞
+					♔
+					ঔৣ
+					✞
+					ꐡ
+					〠
+					⍟
+					㋡
+					ҳ̸Ҳ̸ҳ 
+					༫
+					𐂡
+					𒋨
+					𖤍
+					༗
+					ههههه
+					𓅂
+					𖣘
+					𒁂
+					𒈒
+					𒈞
+					✰ཽ
+					༺
+					࿐
+					☬
+					Ӂ
+					༒
+					༈
+					Ϟϟ
+					ペ
+					ᘛ
+					៚
+					༆
+					乡
+					░
+					⫷⫸
+					෴
+					⚔
+					⚒
+					웃
+					유
+					ஒ
+					ௐ
+					우
+					움
+					囧
+					㋚
+					㋡
+					㋞
+					ဣ
+					❥
+					❦
+					ღ
+					➰
+					ᴥ✾
+					✿
+					❀
+					❁
+					❂
+					❃
+					⍟۝
+					⛀
+					⛁
+					⛂ 
+					⛃
+					⚀
+					⚁
+					⚂
+					⚃
+					⚄
+					⚅
+					⌨ 
+					Ⓜ
+					
+						`)
+						}	
+					
+					
+					
+					
+					if (budy.includes(`.armas`)) {
+						reply(`
+					Escribe tu sugerencia a agregar 🤖
+					( -_･) ︻デ═一 ▸
+					
+					
+					¯¯̿̿¯̿̿’̿̿̿̿̿̿̿’̿̿’̿̿̿̿̿’̿̿̿)͇̿̿)̿̿̿̿ ‘̿̿̿̿̿̿\̵͇̿̿\=(•̪̀●́)=o/̵͇̿̿/’̿̿ ̿ ̿̿
+					̿’ ̿’\\N̵͇̿з=(◕_◕)=ε/̵͇̿̿/’̿’̿
+					︻╦╤─
+					︻╦̵̵͇̿̿̿̿══╤─	
+					-╾━╤デ╦︻(˙ ͜ʟ˙ )
+					︻デ═一	
+					̿’ ̿’\\N̵͇̿з=( ͡ °_̯͡° )=ε/̵͇̿̿/’̿’̿
+					▄︻̷̿┻̿═━一	
+					(⌐▀͡ ̯ʖ▀)︻̷┻̿═━一
+					(╯°□°)–︻╦╤─ – – –	
+					ʕ ͡° ʖ̯ ͡︻╦̵͇̿̿̿╤̵─
+					─╤╦︻3=(◣_◢)=Ƹ︻╦╤─	
+					(⌐■_■)–︻╦╤─
+					▬▬ι══════ﺤ
+					⌐╦╦═─
+					ᕦ(▀̿ ̿ -▀̿ ̿ )つ︻̷┻̿═━一
+					( ͡° ͜ʖ ͡°)=ε/̵͇̿̿/’̿
+					̿’̿’\\N̵͇̿з=( ͠° ͟ʖ ͡°)=ε/̵͇̿̿/’̿̿ ̿ ̿
+					━╤デ╦︻ (▀̿━̯̿▀̿ ̿)
+					
+						`)
+						}
+											
+					if (budy.includes(`.sugerencias`)) {
+						reply(`
+					Envia tu sugerencia al bot 🤖
+					
+					
+						`)
+						}	
+					
+					if (budy.includes(`.nameanime`)) {
+						reply(`
+					[SedyGames]
+					Ai: Significa «amor» y define a una mujer romántica y cariñosa.
+					Aiko: Significa «hija querida», chica que se hace amar y respetar.
+					Akane: El significado literal es «rojo brillante».
+					Akiko: Mujer que brilla con luz propia.
+					Akira: Significa «luz», «brillante».
+					Amaya: Nombre muy poético que significa «lluvia nocturna».
+					Chiasa: Nombre bucólico que significa «un millón de amaneceres».
+					Chieko: Chica sabia, inteligente y de gran bagaje cultural.
+					Chika: Significa «sabiduría».
+					Chinami: Nombre de original significado: «un millón de olas».
+					Chiyoko: Literalmente, significa «un millón de generaciones».
+					Cho: Nombre de doble significado. Por un lado, «mariposa», y por el otro, «nacida en la madrugada».
+					Dai: Significa «grande» y describe a una mujer poderosa y ambiciosa.
+					Daruma: Nombre que hace referencia a un famoso buda.
+					Den: Literalmente, significa «legado de los antepasados».
+					Emiko: Chica sonriente, feliz y risueña.
+					Ena: Significa «regalo de Dios».
+					Eri: Literalmente, quiere decir «premio bendecido».
+					Eshima: Relacionado con el significado de Eri, se traduce por «intención bendecida y verdadera».
+					Fuji: Significa «glicina», que es una planta de origen chino que produce racimos de flores perfumadas de color azulado o malva.
+					Fumiko: Chica de gran belleza, bendecida por la fortuna.
+					Gen: Significa «primavera» y hace referencia al renacer de las cosas.
+					Gina: Literalmente, quiere decir «plateada».
+					Hanako: Tiene doble significado. Por un lado, «criatura de las flores», y por el otro, «flor de feria».
+					Hanan: Chica bella, risueña, que brilla con luz propia y cautiva a la gente.
+					Haru: Al igual que Gen, significa «primavera» y está relacionado con el renacer del mundo.
+					Haruka: Literalmente, significa «lejos».
+					Hatsu: Referente a la hija primogénita.
+					Hayami: Chica de una gran belleza, inusual y un tanto rara.
+					Hekima: Mujer sabia, reflexiva y paciente.
+					Hikaru: Significa «que brilla con luz propia».
+					Hiriko: Literalmente, quiere decir «generosa».
+					Hiroko: Nombre de doble significado. Por un lado, «grande», y por el otro, «hija generosa».
+					Hisa: Significa «de larga duración».
+					Hoshi: Nombre bucólico que significa «estrella» y se relaciona con la belleza de la noche.
+					Humiya: Literalmente, quiere decir «niña saludable».
+					Ima: Chica que vive el presente y sabe disfrutar el momento.
+					Isamu: Nombre de doble significado. Por un lado, «vigor», y por el otro, «robustez».
+					Jin: Chica dulce, tierna y cariñosa.
+					Jun: Mujer de buen hacer, obediente y respetuosa.
+					Kaedé: Literalmente, significa «hoja de arce».
+					Kaiyo: Mujer misericordiosa y con una gran capacidad para perdonar.
+					Kame: El mismo significado que Kaméyo: por un lado, «larga vida», y por el otro, «símbolo de la tortuga».
+					Kameyo: El mismo significado que Kaméyo y Kame: por un lado, «larga vida», y por el otro, «símbolo de la tortuga».
+					Kano: Mujer de gran destreza y con mucha habilidad por desempeñar todo tipo de tareas.
+					Kaori: Literalmente, quiere decir «fragancia».
+					Kata: Significa «digna» y describe a una chica respetable y honorable.
+					Katsumi: Significa «belleza victoriosa».
+					Kazashi: Hace referencia a un ornamento para el cabello.
+					Kazue: Nombre de doble significado. Por un lado, «rama», y por el otro, «primera bendición».
+					Keiko: Mujer feliz, divertida, alegre y siempre sonriente.
+					Kichi: Literalmente, significa «afortunada».
+					Kiko: Significa «esperanza».
+					Kikuë: Hace referencia a la rama del crisantemo, planta procedente de China de flores moradas.
+					Kimi: Literalmente, quiere decir «belleza del siglo».
+					Kioko: Chica risueña, feliz y alegre.
+					Kishi: Significa «larga y feliz vida».
+					Kiwa: Se traduce por «nacida en una frontera».
+					Kiyoko: Nombre de doble significado. Por un lado, «niña de gran pureza», y por el otro, «claridad».
+					Koemi: Nombre alegre y positivo que significa «sonreír».
+					Kohana: Significa «pequeña flor».
+					Koko: Significa «cigüeña».
+					Koma: Literalmente, se traduce por «expresión de cariño y afecto».
+					Koto: Significa «hermosa arpa».
+					Kukiko: Significa «nieve».
+					Kumi: Mujer de belleza extraordinaria, misteriosa y un tanto especial.
+					Kura: Literalmente, quiere decir «casa del tesoro».
+					Kyoto: Literalmente significa «espejo».
+					Leiko: Literalmente, significa «arrogante».
+					Madoka: Chica tranquila, sosegada y muy pacífica.
+					Mai: Nombre de doble significado. Por un lado, «brillar», y por el otro, «flor».
+					Maiko: Significa «chica que baila».
+					Majime: Mujer seria, reflexiva e inteligente.
+					Mamiko: Significa «hija de Mami», un nombre también utilizado en Japón.
+					Manami: Chica muy bella, cariñosa, romántica y pasional.
+					Maru: Literalmente, significa «redonda».
+					Masako: Significa «hija verdadera».
+					Masumi: Nombre de doble significado. Por un lado, «de gran belleza», y por el otro, «verdadera pureza».
+					Matsuko: Hace referencia al árbol del pino.
+					Mayoko: Literalmente, quiere decir «nacida en mayo».
+					Mië: Se refiere a la rama de un árbol y define a una mujer amante de la naturaleza.
+					Michiko: Significa «niña que va por el camino correcto».
+					Nozomi: Significa «esperanza».
+					Nyoko: Hace referencia a «gema» o «piedra preciosa» y también a «tesoro».
+					Rai: Significa «confianza».
+					Ran: Bonito nombre que significa «lirio de agua».
+					Reiko: Hace referencia a una chica agradecida.
+					Rieko: Se traduce por «hija de Rie», nombre utilizado en Japón.
+					Rin: Nombre de doble significado. Por un lado, «parque», y por el otro, «pueblo japonés».
+					Rini: Significa «conejita».
+					Risa: Nombre con un bonito significado: «crecen flores en el hogar».
+					Rui: Chica afectuosa, cariñosa y entregada.
+					Ruri: Significa «esmeralda».
+					Ryoko: Literalmente, quiere decir «buena chica».
+					Sachi: Nombre de doble significado. Por un lado, «bendecida», y por el otro, «afortunada».
+					Sadashi: Chica ambiciosa, con ganas de comerse el mundo.
+					Sai: Mujer de talento con mucha habilidad por los negocios.
+					Sakiko: Literalmente, significa «prosperidad».
+					Sakurako: Hace referencia a una niña nacida en Sakura.
+					Satchiko: Chica afortunada, risueña y muy alegre.
+					Satoko: Hace referencia a una niña nacida en Sato.
+					Sayoko: Hace referencia a una niña nacida en Sayo.
+					Seijun: Significa «pureza», una mujer con la capacidad de ver las cosas muy claramente.
+					Seina: Literalmente, quiere decir «hija sagrada».
+					Sen: Peculiar nombre que se traduce por «hadas de madera».
+					Shaiwase: Chica portadora de buena suerte, feliz y bondadosa.
+					Shigé: Significa «exuberante».
+					Shiho: Literalmente, significa «que mantiene su intención primitiva».
+					Shika: Significa «ciervo de buen corazón».
+					Shinju: Nombre que designa a una mujer bella, y que significa «perla».
+					Shinobu: Mujer comprensiva, a quien le gusta ayudar a los demás.
+					Shiori: Significa «guía».
+					Shizu: Chica paciente, tranquila y muy intuitiva.
+					Shoma: Mujer que busca la verdad, que no es para nada conformista.
+					Sorano: Significa «que viene del cielo».
+					Suki: Nombre de doble significado. Por un lado, «querida», y por el otro, «ojos de águila».
+					Sumiye: Chica de mente brillante y muy inteligente.
+					Suzuë: Bonito nombre que significa «rama de campanillas».
+					Suzume: Significa «gorrión».
+					Také: Literalmente, quiere decir «bambú».
+					Takako: Chica noble, honorable y muy leal.
+					Takara: Significa «tesoro».
+					Taki: Se traduce por «cascada».
+					Tamane: Peculiar nombre que significa «el sonido de un collar».
+					Tami: Referente a una chica que ha sido bendecida.
+					Tsuru: Nombre de doble significado. Por un lado, «cigüeña», y por el otro, «larga vida».
+					Ume: Literalmente, significa «flor del ciruelo», el árbol cuyo fruto son las ciruelas.
+					Umi: Nombre de bonito significado: «océano».
+					Utano: Místico nombre que se traduce por «campo de melodías».
+					TEMAS:
+					JapónNombres de niña
+					Hazte socio de OKCLUB
+					2 COMENTARIOS
+					TE RECOMENDAMOS
+					CA2M: el arte contemporáneo escondido en Móstoles | Madrid
+					Dani Martín es aplaudido por esta valiente confesión
+					Joaquín Prat pone en duda a Olga y se pone de lado de Rocío Carrasco
+					Gianmarco se sincera sobre las secuelas físicas tras 'Supervivientes 2021'
+					Yulimar Rojas hace historia con un impresionante salto que vale el oro y el récord del mundo
+					Lola abandona el plató tras enterarse de la posible infidelidad de su novio
+					[SedyBot]
+						`)
+						}	 
+					
+					
 						if (budy.includes(`.clan`)) {
 							reply(`
 			
