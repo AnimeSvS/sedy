@@ -6,6 +6,7 @@ const help = (prefix) => {
   Comando : ⌜ ${prefix} ⌟
   Creador : SedyGames
   Facebook: Facebook.com/SedyGames/
+  Tik Tok: https://vm.tiktok.com/ZMd3JHUfX/
   
   ❍➣ *MENUS*
    │⊷️ Descargar musica y videos 
