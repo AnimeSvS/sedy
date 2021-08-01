@@ -45,7 +45,7 @@ const help = (prefix) => {
     
       
 
-  ❍➣ *Reglas par el uso del Bot*
+  ❍➣ *Menu Clan*
 
     │⊷️ ${prefix}clan
     │⊷️ ${prefix}colores
