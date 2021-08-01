@@ -275,7 +275,7 @@ async function starts() {
 				┗━━━━━━━━━━━━━━━━━━━━━━━━━━━
 				┏━━━━━━━━━━━━━━━━━━━━━━━━━━━
 				┃   	「 *SedyBot* 」
-				┗━━━━━━━━━━━━━━━━━━━━━━━━━━━
+				┗━━━━━━━━━━━━━━━━━━━━━━━━━━━`
                           client.sendMessage(mdata.id, teks, MessageType.text, { contextInfo: {"mentionedJid": [num]}})
 			} else if (anu.action == 'remove') {
 				num = anu.participants[0]
