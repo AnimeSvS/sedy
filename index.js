@@ -1392,6 +1392,25 @@ break
 						reply(`PvP o miedo 🤖🤖\n >:v`)
 						}	 
 						
+					if (budy.includes(`.banderas`)) {
+						reply(`
+						
+						España : [FF0000]█[FFFF00]█[FF0000]█
+						México: [088A29]█[ffffff]█[ff0000]█
+						Argentina: [00FFFF]█[FFFFFF]█[00FFFF]█
+						Colombia : [ffff00]█[0000ff]█[ff0000]█
+						Perú : [FF0000] denito █[ffffff]█[ff0000]█
+						Bolivia : [ff0000]■[ffff00]■[00ff00]■
+						Guatemala : [a9f5f2]█[ffffff]█[a9f5f2]█
+						Salvador : [0000FF]█[FFFFFF]█[0000FF]█
+						Costa Rica : [0000FF]█[FFFFFF]█[FF0000]█[FFFFFF]█[0000FF]█
+						Paraguay: [FF0000]█[FFFFFF]█[0000FF]█
+						Chile : [0000FF]█[FFFFFF]█[FF0000]█
+						Nicaragua [0000FF]█[FFFFFF]█[0000FF]█
+						
+						`)
+						}	 
+						
 					
 					if (budy.includes(`.colores`)) {
 						reply(`
