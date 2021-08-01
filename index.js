@@ -1385,7 +1385,7 @@ break
 						reply(`PvP o miedo 🤖🤖\n >:v`)
 						}	 
 						
-						if (budy.includes(`*clan`)) {
+						if (budy.includes(`.clan`)) {
 							reply(`
 			
 			
