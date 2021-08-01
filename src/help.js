@@ -41,6 +41,17 @@ const help = (prefix) => {
     │
     │⊷️ ${prefix}reglas
     ╰❏ 
+    
+    
+      
+
+  ❍➣ *Reglas par el uso del Bot*
+
+    │⊷️ ${prefix}clan
+    │⊷️ ${prefix}colores
+    │⊷️ ${prefix}signos
+    │⊷️ ${prefix}sugerencias
+    ╰❏ 
 `
 }
 
