@@ -42,6 +42,7 @@ const help = (prefix) => {
     │⊷️ ${prefix}signos
     │⊷️ ${prefix}armas
     │⊷️ ${prefix}nameanime
+    │⊷️ ${prefix}banderas
     │⊷️ ${prefix}sugerencias
     ╰❏ 
     
