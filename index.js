@@ -82,7 +82,7 @@ const vcard = 'BEGIN:VCARD\n' // Tarjeta de contacto
             + 'END:VCARD'
 /******FIN DE ENTRADA VCARD******/
 
-prefix = '!'
+prefix = '.'
 blocked = []
 
 /******CONFIGURACION DE CARGA******/
@@ -1480,7 +1480,7 @@ break
 								  reply(`¿Me quiere o no me quiere? Esta es una de las preguntas que más nos hacemos cuando estamos en una relación de pareja o estamos empezando una historia de amor con una persona a la que todavía estamos descubriendo. Cada uno tenemos una personalidad única y no todos disponemos de la misma facilidad para expresar lo que sentimos a través de las palabras. Sin embargo, en el amor los gestos de afecto y cariño, las miradas, las actitudes, los comportamientos…, son muy pero que muy reveladores y dejan entrever los sentimientos y las emociones, por lo que nos darán muchas pistas y de una manera objetiva podemos saber si realmente nos quiere, así como hasta qué punto su amor es verdadero.\n
 								  Bot🤖)`)
 								  }	  
-								  if (budy.includes(`*reglas`)) {
+								  if (budy.includes(`.reglas`)) {
 									  reply(`ʕ っ • ᴥ • ʔ っ
 									  ➭𝙽𝚘 𝚜𝚙𝚊𝚖 𝚊𝚕 𝚋𝚘𝚝 𝚘 𝚜𝚎𝚛𝚊́𝚜 𝚋𝚕𝚘𝚚𝚞𝚎𝚊𝚍𝚘 𝚊𝚞𝚝𝚘𝚖𝚊𝚝𝚒𝚌𝚊𝚖𝚎𝚗𝚝𝚎
 									  ➭𝙽𝚘 𝚊𝚋𝚞𝚜𝚎𝚜 𝚍𝚎 𝚖𝚒𝚜 𝚌𝚘𝚖𝚊𝚗𝚍𝚘𝚜\n Que me da ansiedad \n(‾◡◝)
