@@ -31,27 +31,23 @@ const help = (prefix) => {
     ╰❏ 
   
   ❍➣ *AUDIO*
-    │
     │⊷️ ${prefix}idioma
     │⊷️ ${prefix}tts es
     ╰❏  
   
-  
-  ❍➣ *Reglas par el uso del Bot*
-    │
-    │⊷️ ${prefix}reglas
-    ╰❏ 
-    
-    
-      
-
   ❍➣ *Menu Clan*
-
     │⊷️ ${prefix}clan
     │⊷️ ${prefix}colores
     │⊷️ ${prefix}signos
+    │⊷️ ${prefix}armas
+    │⊷️ ${prefix}nameanime
     │⊷️ ${prefix}sugerencias
     ╰❏ 
+    
+    ❍➣ *Reglas par el uso del Bot*
+    │⊷️ ${prefix}reglas
+    ╰❏ 
+    
 `
 }
 
