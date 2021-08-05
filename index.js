@@ -1383,7 +1383,23 @@ break
 			
 			
 			
-			
+			  if (budy.includes(`bot`)) {
+						reply(` 
+						io que :'c 
+						no me llamen que 
+						me da ansiedad
+						/_ \
+						`)
+						}
+					
+			  if (budy.includes(`Bot`)) {
+						reply(` 
+						io que :'c 
+						no me llamen que 
+						me da ansiedad
+						/_ \
+						`)
+						}
 			
 					  if (budy.includes(`free`)) {
 						reply(`PvP o miedo 🤖🤖\n >:v`)
