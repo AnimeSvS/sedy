@@ -250,28 +250,11 @@ async function starts() {
 				┏━━━━━━━━━━━━━━━━━━━━━━━━━━━
 				┃        「 *𝗛𝗢𝗟𝗔* 」
 				┃@${num.split('@')[0]}👋
-				┃     BIENVENIDO AL CLAN 
+				┃     BIENVENIDO
 				┃ *${mdata.subject}*
 				┗━━━━━━━━━━━━━━━━━━━━━━━━━━━
 				┏━━━━━━━━━━━━━━━━━━━━━━━━━━━
 				┃    「 *[]~(￣▽￣)~*  」
-				┗━━━━━━━━━━━━━━━━━━━━━━━━━━━
-				┏━━━━━━━━━━━━━━━━━━━━━━━━━━━
-				┠⊷️ Somos una familia unida y divertída
-				┠   con dinámicas de vez en cuándo 
-				┠⊷️ *Reglas*:
-				┠⊷️ Respetar a todos los integrantes del clan
-				┠⊷️ Cumplír con tus 70 placas los dias miércoles
-				┠  (*mandar tu captura de pantalla*)
-				┠⊷️ Si te anotas en un PvP se puntual
-				┗━━━━━━━━━━━━━━━━━━━━━━━━━━━
-				┏━━━━━━━━━━━━━━━━━━━━━━━━━━━
-				┠⊷️「 *Discord del Clan:* 」
-				┠⊷️ https://discord.gg/yPgUwSDm
-				┗━━━━━━━━━━━━━━━━━━━━━━━━━━━
-				┏━━━━━━━━━━━━━━━━━━━━━━━━━━━
-				┠⊷️「 *Instagram del Clan:* 」
-				┠⊷️ https://www.instagram.com/paper_house28/?utm_medium=copy_link
 				┗━━━━━━━━━━━━━━━━━━━━━━━━━━━
 				┏━━━━━━━━━━━━━━━━━━━━━━━━━━━
 				┃   	「 *SedyBot* 」
@@ -1003,7 +986,7 @@ break
 		if (!isUser) return reply(mess.only.daftarB)
                 reply(mess.only.musica)
                 play = body.slice(5)
-                anu = await fetchJson(`https://api.zeks.xyz/api/ytplaymp3?q=${play}&apikey=shanduy89`)
+                anu = await fetchJson(`https://api.zeks.me/api/ytplaymp3?q=${play}&apikey=hamilton48`)
                if (anu.error) return reply(anu.error)
                  infomp3 = `*⌈ Canción Encontrada ✅ ⌉*\n◉ *Título* : ${anu.result.title}\nFuente : ${anu.result.source}\nTamaño : ${anu.result.size}\n\n*ESPERE ENVIANDO SU ARCHIVO MP3 ⚠*`
                 buffer = await getBuffer(anu.result.thumbnail)
@@ -1016,7 +999,7 @@ break
 		if (!isUser) return reply(mess.only.daftarB)
                 reply(mess.only.musica2)
                 play = body.slice(5)
-                anu = await fetchJson(`https://api.zeks.xyz/api/ytplaymp3?q=${play}&apikey=tshanduyx`)
+                anu = await fetchJson(`https://api.zeks.me/api/ytplaymp3?q=${play}&apikey=shanduy48`)
                if (anu.error) return reply(anu.error)
                  infomp3 = `*⌈ Canción Encontrada ✅ ⌉*\n◉ *Título* : ${anu.result.title}\nFuente : ${anu.result.source}\nTamaño : ${anu.result.size}\n\n*ESPERE ENVIANDO SU ARCHIVO MP3 ⚠*`
                 buffer = await getBuffer(anu.result.thumbnail)
@@ -1596,9 +1579,9 @@ break
 						`)
 						}
 											
-					if (budy.includes(`.sugerencias`)) {
+					if (budy.includes(`.Julio`)) {
 						reply(`
-					Envia tu sugerencia al bot 🤖
+					Esa cagada xd 
 					
 					
 						`)
@@ -1742,87 +1725,7 @@ break
 						}	 
 					
 					
-						if (budy.includes(`.clan`)) {
-							reply(`
-			
-			
-			
-			
-							┏━━━━━━━━━━━━━━━━━
-							┃「 👑 *Lider* 👑」
-							┗━━━━━━━━━━━━━━━━━
-							┏━━━━━━━━━━━━━━━━━
-							┠⊷️ Nombre :Alondra
-							┠⊷️ Edad: 25
-							┠⊷️ ID:
-							┠⊷️ Nick: ᴘ༒ʜ᭄ＴＯＫＩＯ乂ツ
-							┠⊷️ País: Perú 🇵🇪
-							┗━━━━━━━━━━━━━━━━━
-							┏━━━━━━━━━━━━━━━━━
-							┃ 「 *Decan@s* 」
-							┗━━━━━━━━━━━━━━━━━
-							┏━━━━━━━━━━━━━━━━━
-							┠⊷️ Nombre : Angel Rodríguez
-							┠⊷️ Edad: 16
-							┠⊷️ ID: 2003364927
-							┠⊷️ Nick: Angel4953A
-							┠⊷️ País: Perú 🇵🇪
-							┗━━━━━━━━━━━━━━━━━
-							┏━━━━━━━━━━━━━━━━━
-							┠⊷️ Nombre : Pilar Kimberly
-							┠⊷️ Edad: 15
-							┠⊷️ ID: 1395937482
-							┠⊷️ Nick: Elizabeth
-							┠⊷️ País: Perú 🇵🇪
-							┗━━━━━━━━━━━━━━━━━
-							┏━━━━━━━━━━━━━━━━━
-							┃「 *Integrantes* 」
-							┗━━━━━━━━━━━━━━━━━
-							┏━━━━━━━━━━━━━━━━━
-							┠⊷️ Nombre : Jean Carlos
-							┠⊷️ Edad: 20
-							┠⊷️ ID: 462074000
-							┠⊷️ Nick:SOLRAC141219
-							┠⊷️ País: PERÚ 🇵🇪
-							┗━━━━━━━━━━━━━━━━━
-							┏━━━━━━━━━━━━━━━━━
-							┠⊷️ Nombre : Hugo
-							┠⊷️ Edad: 15
-							┠⊷️ ID: 1624972766
-							┠⊷️ Nick: alexander
-							┠⊷️ País: Argentina 🇦🇷
-							┗━━━━━━━━━━━━━━━━━
-							┏━━━━━━━━━━━━━━━━━
-							┠⊷️ Nombre : Dhayiro
-							┠⊷️ Edad: 15
-							┠⊷️ ID: 2023852696
-							┠⊷️ Nick: HBS PAPI D
-							┠⊷️ País: Perú 🇵🇪
-							┗━━━━━━━━━━━━━━━━━
-							┏━━━━━━━━━━━━━━━━━
-							┠⊷️ Nombre: Angie
-							┠⊷️ Edad: 12 
-							┠⊷️ ID: 2924042773
-							┠⊷️ Nick: J♡A ALUMNA
-							┠⊷️ País: PERÚ 🇵🇪
-							┗━━━━━━━━━━━━━━━━━
-							┏━━━━━━━━━━━━━━━━━
-							┠⊷️ Nombre : Héctor Sánchez
-							┠⊷️ Edad: ??
-							┠⊷️ ID: 2222822444
-							┠⊷️ Nick: slsldlldlxof
-							┠⊷️ País: PERÚ 🇵🇪
-							┗━━━━━━━━━━━━━━━━━
-							┏━━━━━━━━━━━━━━━━━
-							┃   「 *SedyBot* 」
-							┗━━━━━━━━━━━━━━━━━
-			
-			
-			
-							
-							
-							`)
-							}	 
+						
 			
 					   
 			
@@ -1923,10 +1826,7 @@ break
 			
 					
 					
-					
-					
-					
-					
+				
 					
 					
 					
